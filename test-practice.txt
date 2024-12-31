@@ -18,3 +18,5 @@ uu
 ch
 in
 ese
+
+lang1
